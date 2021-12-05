@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/ipekserttas99/hrms_backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipekserttas99&repo=hrms_backend" />
 </a>
-<a href="https://github.com/ipekserttas99/hrms_frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipekserttas99&repo=hrms_frontend" />
-</a>
 <a href="https://github.com/ipekserttas99/GameProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipekserttas99&repo=GameProject" />
+</a>
+<a href="https://github.com/ipekserttas99/hrms_frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipekserttas99&repo=hrms_frontend" />
 </a>
 <a href="https://github.com/ipekserttas99/eCommerceSite">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipekserttas99&repo=eCommerceSite" />
