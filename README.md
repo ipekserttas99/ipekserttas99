@@ -1,23 +1,31 @@
 <img src="https://cdnb.artstation.com/p/assets/images/images/019/093/555/large/marianna-burylko-starrysky.jpg?1561999318">
-# Hi there 👋 It's Ipek Serttaş. 
-### I graduated from Istanbul Aydın University Computer Programming. 🔭
-### 🌱 I’m currently learning Java, React, Javascript ☄️
-<!--
-**ipekserttas99/ipekserttas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hey, It's Ipek Serttaş! 
+I am Software Developer. I love experimenting with new technologies and building small projects.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ipekserttas99&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs" />
+
+- ☀️ Learning Java, React, Javascript.
+
+<details>
+  <summary>Some interesting facts about me!</summary>
+  <br>
+
+  - I paint canvas using acrylic and watercolor. 
+
+  - While Coding, Listening Music and developing useful code. ⭐️
+
+  - Reading Novels, Action and Adventure, Comics, Detective and Mystery, Fantasy, Historical Fiction, Sci-Fi books.
+
+  - My new hobby is watching Japanese anime!
+  
+  - Currently learning Korean and Japanese. 
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=ipekserttas99&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs)
+
+</details>
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipekserttas99&count_private=true&layout=compact" />
 
 
