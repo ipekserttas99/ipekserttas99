@@ -1,6 +1,6 @@
 # Hi there 👋 It's Ipek Serttaş. 
-## I graduated from Istanbul Aydın University Computer Programming. 🔭
-## 🌱 I’m currently learning Java, React, Javascript ☄️
+### I graduated from Istanbul Aydın University Computer Programming. 🔭
+### 🌱 I’m currently learning Java, React, Javascript ☄️
 <!--
 **ipekserttas99/ipekserttas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
