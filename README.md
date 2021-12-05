@@ -7,7 +7,6 @@ I am Software Developer. I love experimenting with new technologies and building
 
 - ☀️ Learning Java, React, Javascript.
 
-<details>
   <summary>Some interesting facts about me!</summary>
   <br>
 
@@ -23,7 +22,7 @@ I am Software Developer. I love experimenting with new technologies and building
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ipekserttas99&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs)
 
-</details>
+
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipekserttas99&count_private=true&layout=compact" />
