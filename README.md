@@ -1,3 +1,4 @@
+<img src="https://cdnb.artstation.com/p/assets/images/images/019/093/555/large/marianna-burylko-starrysky.jpg?1561999318">
 # Hi there 👋 It's Ipek Serttaş. 
 ### I graduated from Istanbul Aydın University Computer Programming. 🔭
 ### 🌱 I’m currently learning Java, React, Javascript ☄️
