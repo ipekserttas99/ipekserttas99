@@ -5,24 +5,26 @@
 I am Software Developer. I love experimenting with new technologies and building small projects.
 
 
-- ☀️ Learning Java, React, Javascript.
+☀️ Learning Java, React, Javascript. ☀️
 
-  <summary>Some interesting facts about me!</summary>
-  <br>
+<br>
 
-  - I paint canvas using acrylic and watercolor. 
+### 🧬 Some interesting facts about me! 🧬
+ 
+
+  - I paint canvas using acrylic and watercolor. 🎨
 
   - While Coding, Listening Music and developing useful code. ⭐️
 
-  - Reading Novels, Action and Adventure, Comics, Detective and Mystery, Fantasy, Historical Fiction, Sci-Fi books.
+  - Reading Novels, Action and Adventure, Comics, Detective and Mystery, Fantasy, Historical Fiction, Sci-Fi books. 📚
 
-  - My new hobby is watching Japanese anime!
+  - My new hobby is watching Japanese anime! 💫
   
-  - Currently learning Korean and Japanese. 
+  - Currently learning Korean and Japanese. 🥢
+  
+  <br>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ipekserttas99&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs)
-
-
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipekserttas99&count_private=true&layout=compact" />
