@@ -5,14 +5,14 @@
 I am Software Developer. I love experimenting with new technologies and building small projects.
 
 
-☀️ Learning Java, React, Javascript. ☀️
+☀️ Learning Java, .NET Core. ☀️
 
 <br>
 
 ### 🧬 Some interesting facts about me! 🧬
  
 
-  - I paint canvas using acrylic and watercolor. 🎨
+  - I paint canvas using acrylic and watercolor. And I just started digital drawing! 🎨
 
   - While Coding, Listening Music and developing useful code. ⭐️
 
