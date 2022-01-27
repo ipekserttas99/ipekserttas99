@@ -35,8 +35,8 @@ I am Software Developer. I love experimenting with new technologies and building
 <a href="https://github.com/ipekserttas99/hrms_backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipekserttas99&repo=hrms_backend" />
 </a>
-<a href="https://github.com/ipekserttas99/GameProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipekserttas99&repo=GameProject" />
+<a href="https://github.com/ipekserttas99/cantacim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipekserttas99&repo=cantacim" />
 </a>
 <a href="https://github.com/ipekserttas99/trashCollectionSystem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipekserttas99&repo=trashCollectionSystem" />
