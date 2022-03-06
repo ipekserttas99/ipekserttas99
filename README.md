@@ -1,4 +1,4 @@
-<img src="https://cdnb.artstation.com/p/assets/images/images/019/093/555/large/marianna-burylko-starrysky.jpg?1561999318">
+<img src="https://i.pinimg.com/originals/d9/5e/09/d95e0951aacb25246d2fda9373194918.jpg">
 
 
 ### Hey, It's Ipek Serttaş! 
@@ -24,7 +24,7 @@ I am Software Developer. I love experimenting with new technologies and building
   
   <br>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=ipekserttas99&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs)
+![My github stats](https://github-readme-stats.vercel.app/api?username=ipekserttas99&show_icons=true&theme=synthwave&count_private=true&hide=issues,contribs)
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipekserttas99&count_private=true&layout=compact" />
