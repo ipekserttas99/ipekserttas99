@@ -12,7 +12,7 @@ I am Software Developer. I love experimenting with new technologies and building
 ### 🧬 Some interesting facts about me! 🧬
  
 
-  - I paint canvas using acrylic and watercolor. And I just started digital drawing! 🎨
+  - I paint canvas using acrylic and watercolor. Plus I love digital drawing! 🎨
 
   - While Coding, Listening Music and developing useful code. ⭐️
 
