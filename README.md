@@ -5,7 +5,7 @@
 I am Software Developer. I love experimenting with new technologies and building projects.
 
 
-☀️ Learning Java, .NET Core. ☀️
+☀️ Currently learning .NET Core, Solidity, React☀️
 
 <br>
 
