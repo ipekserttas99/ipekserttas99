@@ -5,8 +5,6 @@
 I am Software Developer. I love experimenting with new technologies and building projects.
 
 
-☀️ Currently learning React☀️
-
 <br>
 
 ### 🧬 Some interesting facts about me! 🧬
