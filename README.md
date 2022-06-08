@@ -1,8 +1,8 @@
-<img src="https://i.pinimg.com/originals/d9/5e/09/d95e0951aacb25246d2fda9373194918.jpg">
+<img src="https://i.pinimg.com/originals/f6/e3/e0/f6e3e05c4fe415c77759c74461240a13.jpg">
 
 
 ### Hey, It's Ipek Serttaş! 
-I am Software Developer. I love experimenting with new technologies and building projects.
+I am Backend Developer. I love experimenting with new technologies and building projects.
 
 
 <br>
