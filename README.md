@@ -3,7 +3,7 @@
 
 ### Hey, It's Ipek Serttaş! 
 I am Backend Developer. I love experimenting with new technologies and building projects.
-Currently learnin Node.js!
+Currently learning Node.js!
 
 <br>
 
