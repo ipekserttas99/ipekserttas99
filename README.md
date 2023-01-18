@@ -3,7 +3,7 @@
 
 ### Hey, It's Ipek Serttaş! 
 I am Backend Developer. I love experimenting with new technologies and building projects.
-Currently learning Node.js!
+Currently learning Node.js and Radzen!
 
 <br>
 
@@ -17,8 +17,7 @@ Currently learning Node.js!
   - Reading Novels, Action and Adventure, Comics, Detective and Mystery, Fantasy, Historical Fiction, Sci-Fi books. 📚
 
   - My new hobby is watching Japanese anime! 💫
-  
-  - Currently learning Korean and Japanese. 🥢
+
   
   <br>
 
