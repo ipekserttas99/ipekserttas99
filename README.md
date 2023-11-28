@@ -16,8 +16,6 @@ Currently learning Node.js and Radzen!
 
   - Reading Novels, Action and Adventure, Comics, Detective and Mystery, Fantasy, Historical Fiction, Sci-Fi books. 📚
 
-  - My new hobby is watching Japanese anime! 💫
-
   
   <br>
 
